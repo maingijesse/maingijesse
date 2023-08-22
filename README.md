@@ -5,12 +5,12 @@ I'm a self-taught front-end developer and tech enthusiast from Nairobi, Kenya. O
 - 💬 Currently looking for any front-end job openings (both remote and onsite)
 - 🔭 I’m currently working on the MEVN Stack (Mongo, Express, Vue and Node)
 - 🌱 I’m currently learning Backend & APIs using Node.js and Express.js
-- 😃 Looking forward to learning Python, Django, Flask and IOS Development.
+- 😃 Looking forward to learning IOS Development.
 - 👯 I’m looking to collaborate on Full stack web development
 - 🤔 I’m looking for help with Backend & APIs
 - 📫 How to reach me: [maingijesse@gmail.com](mailto:maingijesse@gmail.com) & [Twitter @Cjmaingi](https://twitter.com/Cjmaingi)
 - 😄 Pronouns: He/Him
-- 🏐 Plays COD and FIFA when not coding
+- 🏐 Plays COD mobile and FIFA when not coding
 
 ## Find me around the web 🌍
 
