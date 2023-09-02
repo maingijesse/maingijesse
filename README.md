@@ -4,7 +4,7 @@ I'm a self-taught front-end developer and tech enthusiast from Nairobi, Kenya. O
 
 - 💬 Currently looking for any front-end job openings (both remote and onsite)
 - 🔭 I’m currently working on the MEVN Stack (Mongo, Express, Vue and Node)
-- 🌱 I’m currently learning Backend & APIs using Node.js and Express.js
+- 🌱 I’m currently learning React and React Native.
 - 😃 Looking forward to learning IOS Development.
 - 👯 I’m looking to collaborate on Full stack web development
 - 🤔 I’m looking for help with Backend & APIs
